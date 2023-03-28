@@ -1,4 +1,4 @@
-# DataMining_HW1
+# Data Mining HW1
 
 The first dataset used in the report is the `GitHub` dataset (version1).
 
