@@ -10,4 +10,6 @@ To read the report directly, click here https://www.kaggle.com/code/mackenzieckj
 
 The code has been uploaded in the repo, you can also download the `ipynb` versions to test out personally.
 
-The `pdf` version of the report is not available yet. I will uploaded it as soon as possible.
+The `pdf` version of the report is now available.
+
+**Sorry for not uploading the `pdf` version of the report in LEXUE. I havn't find out how to export it to `pdf` at that time.**
