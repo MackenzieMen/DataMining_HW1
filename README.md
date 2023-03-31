@@ -12,4 +12,4 @@ The code has been uploaded in the repo, you can also download the `ipynb` versio
 
 The `pdf` version of the report is now available.
 
-**Sorry for not uploading the `pdf` version of the report in LEXUE. I havn't find out how to export it to `pdf` at that time.**
+**Sorry for not uploading the `pdf` version of the report in LEXUE. I havn't found out how to export it to `pdf` at that time.**
